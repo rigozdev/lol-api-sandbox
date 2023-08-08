@@ -1,8 +1,39 @@
-# React + Vite
+# League of Legends API Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Exploring the League of Legends API with React: Frontend Design and Navigation
 
-Currently, two official plugins are available:
+## Description
+This repository is a space for exploration and learning, where we leverage the League of Legends API to gather information about champions, matches, and more. We're using React alongside react-router-dom to craft a seamless navigation experience across our pages. Additionally, we're applying frontend and design skills to build an appealing and user-friendly interface. Join us as we develop and refine this exciting journey in the world of League of Legends and React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [League of Legends API Explorer](#league-of-legends-api-explorer)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Examples](#examples)
+  - [Contribution](#contribution)
+  - [License](#license)
+  - [Contact](#contact)
+
+## Installation
+...
+
+## Usage
+...
+
+## Features
+...
+
+## Examples
+...
+
+## Contribution
+...
+
+## License
+...
+
+## Contact
+...
